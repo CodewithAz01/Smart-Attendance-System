@@ -1,0 +1,19 @@
+Arduino Wiring
+RC522 RFID Module → Arduino UNO
+--------------------------------
+RC522	   |   Arduino UNO
+SDA	     |   D10
+SCK	     |   D13
+MOSI	   |   D11
+MISO	   |   D12
+IRQ	     |   Not Connected
+GND	     |   GND
+RST	     |   D9
+3.3V	   |   3.3V
+--------------------------------
+LEDs & Buzzer
+Component	Arduino Pin
+--------------------------------
+Green LED	  |  D6
+Red LED	    |  D7
+Buzzer	    |  D5
